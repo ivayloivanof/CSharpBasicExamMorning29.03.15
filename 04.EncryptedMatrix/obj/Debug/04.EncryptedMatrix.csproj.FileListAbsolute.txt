@@ -1,0 +1,5 @@
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\04.EncryptedMatrix\bin\Debug\04.EncryptedMatrix.exe.config
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\04.EncryptedMatrix\bin\Debug\04.EncryptedMatrix.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\04.EncryptedMatrix\bin\Debug\04.EncryptedMatrix.pdb
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\04.EncryptedMatrix\obj\Debug\04.EncryptedMatrix.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\04.EncryptedMatrix\obj\Debug\04.EncryptedMatrix.pdb

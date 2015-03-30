@@ -1,0 +1,5 @@
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\05.GameOfBits\bin\Debug\05.GameOfBits.exe.config
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\05.GameOfBits\bin\Debug\05.GameOfBits.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\05.GameOfBits\bin\Debug\05.GameOfBits.pdb
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\05.GameOfBits\obj\Debug\05.GameOfBits.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\05.GameOfBits\obj\Debug\05.GameOfBits.pdb

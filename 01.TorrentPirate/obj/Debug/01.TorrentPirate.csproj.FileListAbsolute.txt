@@ -1,0 +1,6 @@
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\bin\Debug\01.TorrentPirate.exe.config
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\bin\Debug\01.TorrentPirate.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\bin\Debug\01.TorrentPirate.pdb
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\obj\Debug\01.TorrentPirate.csprojResolveAssemblyReference.cache
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\obj\Debug\01.TorrentPirate.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\obj\Debug\01.TorrentPirate.pdb

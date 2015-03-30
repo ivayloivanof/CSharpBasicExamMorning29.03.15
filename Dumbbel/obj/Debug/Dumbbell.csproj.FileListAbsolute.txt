@@ -1,0 +1,5 @@
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\Dumbbel\bin\Debug\Dumbbel.exe.config
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\Dumbbel\bin\Debug\Dumbbel.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\Dumbbel\bin\Debug\Dumbbel.pdb
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\Dumbbel\obj\Debug\Dumbbel.exe
+c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\Dumbbel\obj\Debug\Dumbbel.pdb
