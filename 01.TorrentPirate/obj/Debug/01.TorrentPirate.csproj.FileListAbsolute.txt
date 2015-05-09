@@ -4,3 +4,9 @@ c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.201
 c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\obj\Debug\01.TorrentPirate.csprojResolveAssemblyReference.cache
 c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\obj\Debug\01.TorrentPirate.exe
 c:\users\ivaylo ivanov\documents\visual studio 2013\Projects\CSharpExam29.03.2015\01.TorrentPirate\obj\Debug\01.TorrentPirate.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\SoftUni.Exam\CSharpExam29.03.2015\CSharpBasicExamMorning29.03.15\01.TorrentPirate\bin\Debug\01.TorrentPirate.exe.config
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\SoftUni.Exam\CSharpExam29.03.2015\CSharpBasicExamMorning29.03.15\01.TorrentPirate\obj\Debug\01.TorrentPirate.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\SoftUni.Exam\CSharpExam29.03.2015\CSharpBasicExamMorning29.03.15\01.TorrentPirate\obj\Debug\01.TorrentPirate.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\SoftUni.Exam\CSharpExam29.03.2015\CSharpBasicExamMorning29.03.15\01.TorrentPirate\bin\Debug\01.TorrentPirate.exe
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\SoftUni.Exam\CSharpExam29.03.2015\CSharpBasicExamMorning29.03.15\01.TorrentPirate\bin\Debug\01.TorrentPirate.pdb
+C:\Users\Ivaylo Ivanov\Documents\SoftUni\SoftUni.Exam\CSharpExam29.03.2015\CSharpBasicExamMorning29.03.15\01.TorrentPirate\obj\Debug\01.TorrentPirate.csprojResolveAssemblyReference.cache
